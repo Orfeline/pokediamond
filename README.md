@@ -1,3 +1,5 @@
+Pense a aller jouer avec leviator rouge dans pokemon cristal
+Joueur are-are
 # Pokémon Diamond
 
 [![build](https://github.com/pret/pokediamond/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/pret/pokediamond/actions/workflows/build.yml)
